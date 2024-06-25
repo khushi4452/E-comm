@@ -2,7 +2,6 @@ import express from 'express';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import md5 from 'js-md5';
-import validator from 'validator';
 
 dotenv.config();
 import User from './model/user.js';
