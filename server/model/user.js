@@ -19,7 +19,6 @@ mobile: {
 },
 password: {
     type: String,
-    
     required: true
 },
 city:{
